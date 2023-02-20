@@ -1,0 +1,4 @@
+﻿  main.c
+D:\Code\VS\C\project_2_20\2_practise\2_practise\main.c(14,25): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+D:\Code\VS\C\project_2_20\2_practise\2_practise\main.c(16,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  2_practise.vcxproj -> D:\Code\VS\C\project_2_20\2_practise\x64\Debug\2_practise.exe

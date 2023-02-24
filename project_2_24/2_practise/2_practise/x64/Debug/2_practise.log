@@ -1,0 +1,3 @@
+﻿  main.c
+D:\Code\VS\C\project_2_24\2_practise\2_practise\main.c(9,17): warning C4554: “&”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+  2_practise.vcxproj -> D:\Code\VS\C\project_2_24\2_practise\x64\Debug\2_practise.exe

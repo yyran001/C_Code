@@ -1,3 +1,0 @@
-﻿  main.c
-D:\Code\VS\C\project_2_25\2_practise\2_practise\main.c(24,17): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
-  2_practise.vcxproj -> D:\Code\VS\C\project_2_25\2_practise\x64\Debug\2_practise.exe

@@ -1,3 +1,0 @@
-﻿  main.c
-D:\Code\VS\project_2_11\1_goto\1_goto\main.c(8,2): warning C4013: “Sleep”未定义；假设外部返回 int
-  1_goto.vcxproj -> D:\Code\VS\project_2_11\1_goto\x64\Debug\1_goto.exe

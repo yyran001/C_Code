@@ -1,3 +1,0 @@
-﻿  main.c
-D:\Code\VS\C\project_2_20\3_practise\3_practise\main.c(9,25): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
-  3_practise.vcxproj -> D:\Code\VS\C\project_2_20\3_practise\x64\Debug\3_practise.exe

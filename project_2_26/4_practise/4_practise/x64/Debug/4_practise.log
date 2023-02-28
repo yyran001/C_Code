@@ -1,4 +1,0 @@
-﻿  main.c
-D:\Code\VS\C\project_2_26\4_practise\4_practise\main.c(21,23): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
-D:\Code\VS\C\project_2_26\4_practise\4_practise\main.c(24,23): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
-  4_practise.vcxproj -> D:\Code\VS\C\project_2_26\4_practise\x64\Debug\4_practise.exe

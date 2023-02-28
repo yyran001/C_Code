@@ -1,0 +1,3 @@
+﻿  main.c
+D:\Code\VS\C\project_2_28\6_parctise\6_parctise\main.c(17,17): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  6_parctise.vcxproj -> D:\Code\VS\C\project_2_28\6_parctise\x64\Debug\6_parctise.exe

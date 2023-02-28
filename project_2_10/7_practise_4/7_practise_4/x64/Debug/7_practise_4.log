@@ -1,3 +1,0 @@
-﻿  main.c
-D:\Code\VS\project_2_10\7_practise_4\7_practise_4\main.c(10,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
-  7_practise_4.vcxproj -> D:\Code\VS\project_2_10\7_practise_4\x64\Debug\7_practise_4.exe
